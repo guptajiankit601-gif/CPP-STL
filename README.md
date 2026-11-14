@@ -1,96 +1,147 @@
-# 🚀 C++ STL – My Learning Journey
+# 🚀 C++ STL – Complete Learning Journey
 
-Welcome to my **C++ STL Practice Repository!** 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-STL-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge" />
+</p>
 
-This repository contains my daily practice programs and implementations of various concepts of the **Standard Template Library (STL)** in C++.
+## 👋 About This Repository
 
-I created this repository to strengthen my problem-solving skills, understand STL concepts deeply, and build a strong foundation for Data Structures and Algorithms (DSA).
+Welcome to my **C++ STL Practice Repository!**
 
-## 🎯 About This Repository
+This repository is dedicated to learning, practicing, and understanding the **Standard Template Library (STL)** in C++.
 
-Here, I will be learning and practicing:
+I am building this repository to strengthen my programming fundamentals, improve problem-solving skills, and prepare myself for Data Structures and Algorithms (DSA).
 
-- C++ STL Containers
-- Iterators
-- STL Algorithms
-- Vectors and Pairs
-- Stacks and Queues
-- Maps and Sets
-- Practical coding examples
+Here, I will upload my C++ STL programs, examples, implementations, and practice problems as I progress in my learning journey.
 
-My goal is to understand each concept through hands-on coding and consistent practice.
+## 🎯 Learning Objectives
+
+- Understand C++ STL concepts from basics to advanced.
+- Learn how different STL containers work.
+- Understand iterators and their applications.
+- Practice built-in STL algorithms.
+- Improve coding efficiency and problem-solving skills.
+- Build a strong foundation for DSA and coding interviews.
 
 ## 📚 Topics Covered
 
-| S.No. | Topic | Status |
+| S.No. | STL Topic | Progress |
 |:---:|---|:---:|
-| 01 | Vector | 🔄 Learning |
-| 02 | Pair | ⏳ Upcoming |
-| 03 | List | ⏳ Upcoming |
-| 04 | Deque | ⏳ Upcoming |
-| 05 | Stack | ⏳ Upcoming |
-| 06 | Queue | ⏳ Upcoming |
-| 07 | Priority Queue | ⏳ Upcoming |
-| 08 | Set & Multiset | ⏳ Upcoming |
-| 09 | Map & Multimap | ⏳ Upcoming |
-| 10 | Unordered Set | ⏳ Upcoming |
-| 11 | Unordered Map | ⏳ Upcoming |
-| 12 | Iterators | ⏳ Upcoming |
-| 13 | STL Algorithms | ⏳ Upcoming |
+| 01 | Vector | 🔄 |
+| 02 | Pair | ⏳ |
+| 03 | List | ⏳ |
+| 04 | Deque | ⏳ |
+| 05 | Stack | ⏳ |
+| 06 | Queue | ⏳ |
+| 07 | Priority Queue | ⏳ |
+| 08 | Set | ⏳ |
+| 09 | Multiset | ⏳ |
+| 10 | Map | ⏳ |
+| 11 | Multimap | ⏳ |
+| 12 | Unordered Set | ⏳ |
+| 13 | Unordered Map | ⏳ |
+| 14 | Iterators | ⏳ |
+| 15 | STL Algorithms | ⏳ |
 
-*I'll keep updating this table as I progress.*
+**Legend:**
+- 🔄 Currently Learning
+- ✅ Completed
+- ⏳ Upcoming
 
-## 🛠️ Technologies Used
+## 📂 Repository Structure
 
-- **Language:** C++
+```text
+CPP-STL/
+│
+├── 01-Vector/
+├── 02-Pair/
+├── 03-List/
+├── 04-Deque/
+├── 05-Stack/
+├── 06-Queue/
+├── 07-Priority-Queue/
+├── 08-Set/
+├── 09-Multiset/
+├── 10-Map/
+├── 11-Multimap/
+├── 12-Unordered-Set/
+├── 13-Unordered-Map/
+├── 14-Iterators/
+├── 15-STL-Algorithms/
+│
+└── README.md
+```
+
+## 🛠️ Technologies & Tools
+
+- **Programming Language:** C++
 - **IDE:** Visual Studio Code
-- **Version Control:** Git & GitHub
+- **Compiler:** GCC (G++)
+- **Version Control:** Git
+- **Platform:** GitHub
 
-## 💻 How to Run the Code
+## 💻 How to Run the Programs
 
-1. Clone this repository:
+1. Clone the repository using its GitHub URL:
 
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/CPP-STL.git
-   ```
+```bash
+git clone https://github.com/guptajiankit601-gif/CPP-STL.git
+```
 
-2. Navigate to the project folder:
+2. Navigate to the project directory:
 
-   ```bash
-   cd CPP-STL
-   ```
+```bash
+cd CPP-STL
+```
 
-3. Compile and run any C++ program:
+3. Compile any C++ program:
 
-   ```bash
-   g++ filename.cpp -o output
-   ./output
-   ```
+```bash
+g++ filename.cpp -o output
+```
 
-   On Windows, run:
+4. Run the program:
 
-   ```bash
-   output.exe
-   ```
+**Windows:**
+```bash
+.\output.exe
+```
 
-## 🌱 My Learning Goals
+**Linux / macOS:**
+```bash
+./output
+```
 
-- Build a strong understanding of C++ STL.
-- Improve problem-solving and coding skills.
-- Prepare for Data Structures and Algorithms.
-- Practice coding consistently.
-- Become confident in writing optimized C++ code.
+## 📈 My Progress
 
-## 📈 Consistency Is the Key!
+This repository represents my continuous learning and improvement in C++ STL.
 
-This repository is a reflection of my learning journey.
+I will regularly update this repository with new concepts, code implementations, and practice programs.
 
-Every program, every mistake, and every new concept brings me one step closer to becoming a better programmer.
+My goal is not just to write code but to understand the logic behind every concept.
 
-**Keep Learning. Keep Coding. Keep Growing!** 💻🔥
+## 🌱 My Learning Philosophy
+
+> Consistency is more important than perfection.
+
+Every new concept, every mistake, and every solved problem is a step towards becoming a better programmer.
+
+I believe that strong fundamentals are the foundation of becoming a good software engineer.
+
+## 🤝 Connect & Support
+
+Thank you for visiting my repository!
+
+Feel free to explore the code and follow my learning journey.
+
+If you find this repository helpful, don't forget to give it a ⭐.
 
 ---
 
-⭐ If you find this repository useful, feel free to explore it!
-
-**Made with ❤️ and C++**
+<p align="center">
+  **Made with ❤️ by Ankit Gupta**
+  <br/>
+  <b>Keep Learning | Keep Coding | Keep Growing 🚀</b>
+</p>
